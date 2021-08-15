@@ -1,4 +1,4 @@
-i am not much of a coder lol, trying to learn c, python, and javascript
+i am not much of a coder lol. trying to learn c stuff.
 
 <!---
 NotMuchOfACoder/NotMuchOfACoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
